@@ -26,3 +26,10 @@ You can see the question I asked myself in order to help the company to grow the
 - Most Sales and Profit were from technology category.
 - The Avg of how lomg the company order takes to reach the clients was around 4 days.
 - I have more question with the answer in the pinot tables tab in the Completed Excel file of this Data Analysis Project. <a href="https://github.com/Eng-AhmedAshraf/First-Data-Analysis-Project/blob/main/Data%20Analysis.xlsx">Final Data Analysis</a>
+
+## Note
+- This was my first Data Analysis Project and my first Rep on github. and all the scenario above is an imagination scenario in order to get in the story.
+- The Datasets that i used "Data Analysis Dataset" and "Shiping Cost" Excel Files.
+- For The "Data Analysis" Excel File it's the final product of this project.
+- And This is the Image of the Dashboard "Sales-Data-Analysis_Dashboard"
+- Lastly, The Question files that have the question that i asked myself of how Can I improve the business "Questions To Improve The Business.docx"
