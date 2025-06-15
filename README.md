@@ -28,7 +28,7 @@ You can see the question I asked myself in order to help the company to grow the
 - I have more question with the answer in the pinot tables tab in the Completed Excel file of this Data Analysis Project. <a href="https://github.com/Eng-AhmedAshraf/First-Data-Analysis-Project/blob/main/Data%20Analysis.xlsx">Final Data Analysis</a>
 
 ## Note
-- This was my first Data Analysis Project and my first Rep on github. and all the scenario above is an imagination scenario in order to get in the story.
+- This was my first Data Analysis Project and my first Repository on github. and all the scenario above is an imagination scenario in order to get in the story.
 - The Datasets that i used "Data Analysis Dataset" and "Shiping Cost" Excel Files.
 - For The "Data Analysis" Excel File it's the final product of this project.
 - And This is the Image of the Dashboard "Sales-Data-Analysis_Dashboard"
