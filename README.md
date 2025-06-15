@@ -33,7 +33,3 @@ You can see the question I asked myself in order to help the company to grow the
 - For The "Data Analysis" Excel File it's the final product of this project.
 - And This is the Image of the Dashboard "Sales-Data-Analysis_Dashboard"
 - Lastly, The Question files that have the question that i asked myself of how Can I improve the business "Questions To Improve The Business.docx"
-
-## IMPORTANT Note
-The Dataset File before any Chnges "Data Analysis Dataset" and "Shipping COst" is From a Content Creater on Youtube and This is The Link for the Dataset File. 
-<a href="https://www.assaal.com/file-share/213ae704-fa2a-44fe-af23-f6f5f67e2b1c">Link of The Dataset Site</a>
