@@ -36,6 +36,6 @@ You can see the question I asked myself in order to help the company to grow the
 
 ## Important Note
 - The Dataset I used is from an Arab Content Creator in Youtube.
-- I saw his videos and try to apply the Changes by myself and tried to be Creeative too.
+- I saw his videos and try to apply the Changes by myself and tried to be Creative too.
 - This is his Youtube Channel <a href="https://www.youtube.com/@mohamedalassaal">Youtube</a>.
 - And This is where he put the Dataset <a href="https://www.assaal.com/file-share/213ae704-fa2a-44fe-af23-f6f5f67e2b1c">Dataset Link</a>.
