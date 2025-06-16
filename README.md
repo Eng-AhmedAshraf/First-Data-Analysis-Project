@@ -33,3 +33,9 @@ You can see the question I asked myself in order to help the company to grow the
 - For The "Data Analysis" Excel File it's the final product of this project.
 - And This is the Image of the Dashboard "Sales-Data-Analysis_Dashboard"
 - Lastly, The Question files that have the question that i asked myself of how Can I improve the business "Questions To Improve The Business.docx"
+
+## Important Note
+- The Dataset I used is from an Arab Content Creator in Youtube.
+- I saw his videos and try to apply the Changes by myself and tried to be Creeative too.
+- This is his Youtube Channel <a href="https://www.youtube.com/@mohamedalassaal">Youtube</a>.
+- And This is where he put the Dataset <a href="https://www.assaal.com/file-share/213ae704-fa2a-44fe-af23-f6f5f67e2b1c">Dataset Link</a>.
